@@ -14,8 +14,11 @@ const ProfileButtons = ({ user }: Props) => {
                 title="Follow"
                 leftIcon="/follow.png"
                 bgColor="bg-orange-500"
-                className="bg-orange-500"
+                
             />
+
+
+            
 
             <Link 
             className="bg-transparent"
