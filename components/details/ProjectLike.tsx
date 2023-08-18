@@ -23,7 +23,7 @@ const ProjectLike = () => {
                     width={14}
                     height={14}
                     alt="save"
-                    className="bg-transparent "
+                    
                 />
                 Save
             </button>
