@@ -10,6 +10,8 @@ type UserProps = {
     linkedinUrl: string
 }
 
+
+
 export const uploadImage = async (imagePath: string) => {
     try {
         const response = await fetch(`/api/upload`, {
